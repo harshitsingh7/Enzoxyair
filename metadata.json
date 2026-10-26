@@ -1,0 +1,6 @@
+{
+  "name": "ENZOXY AIR - Environmental Technology & Precision Air Purification",
+  "description": "Atmospheric precision air purification with medical-grade H13 HEPA, real-time PM2.5 monitoring, and intelligent auto modes designed for the way Indian homes breathe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
